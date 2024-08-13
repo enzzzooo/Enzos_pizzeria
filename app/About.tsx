@@ -1,5 +1,5 @@
 import Image from "next/image";
-import placeHolder from "../public/placeholder.svg";
+import pizza2 from "../public/pizza2.jpeg";
 export default function About() {
   return (
     <section
@@ -34,7 +34,7 @@ export default function About() {
             </div>
           </div>
           <Image
-            src={placeHolder}
+            src={pizza2}
             width="550"
             height="310"
             alt="About"

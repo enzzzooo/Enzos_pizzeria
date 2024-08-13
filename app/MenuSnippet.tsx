@@ -1,4 +1,5 @@
 import placeHolder from "../public/placeholder.svg";
+import pizza4 from "../public/pizza4.png";
 import Image from "next/image";
 // maybe for future use
 export default function MenuSnippet() {
@@ -27,7 +28,7 @@ export default function MenuSnippet() {
                 Tomato sauce, fresh mozzarella, and basil.
               </p>
               <Image
-                src={placeHolder}
+                src={pizza4}
                 width="500"
                 height="500"
                 alt="Margherita Pizza"
