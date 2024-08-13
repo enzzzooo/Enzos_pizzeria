@@ -1,7 +1,7 @@
 import About from "./About";
 import Footer from "./Footer";
 import Header from "./Header";
-import placeHolder from "../public/placeholder.svg";
+import pizza3 from "../public/pizza3.jpeg";
 import Image from "next/image";
 import Contact from "./Contact";
 export default function Home() {
@@ -38,11 +38,11 @@ export default function Home() {
                 </div>
               </div>
               <Image
-                src={placeHolder}
+                src={pizza3}
                 width="550"
                 height="550"
-                alt="Hero"
-                className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
+                alt=""
+                className="object-[65%] mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
               />
             </div>
           </div>

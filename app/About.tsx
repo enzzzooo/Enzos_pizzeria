@@ -11,17 +11,18 @@ export default function About() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm text-muted-foreground">
-                About Us
+                About Us 🍕
               </div>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
                 Slice of Heaven Pizza: Crafting Delicious Pies Since 1985
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 At Slice of Heaven Pizza, we take pride in our commitment to
-                using the freshest ingredients and time-honored recipes to
-                create the perfect pizza experience. Our family-owned business
-                has been serving the community for over 35 years, and we
-                continue to innovate and delight our customers with each slice.
+                using the freshest ingredients 🍅🧀 and time-honored ⏳ recipes
+                to create the perfect pizza experience. Our family-owned 👪
+                business has been serving the community for over 35 years, and
+                we continue to innovate and delight our customers with each
+                slice.
               </p>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Our mission is to bring people together through the universal
